@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JobFinder</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_share">Share</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_search">Search</string>
+
+    <!-- Job Listings -->
+    <string name="job_search_hint">Search jobs by title, company, or keywords</string>
+    <string name="job_location">Location</string>
+    <string name="job_salary">Salary</string>
+    <string name="job_type">Job Type</string>
+    <string name="job_posted">Posted</string>
+    <string name="job_saved">Job saved</string>
+    <string name="job_applied">Applied</string>
+    <string name="job_description">Job Description</string>
+    <string name="job_requirements">Requirements</string>
+    <string name="job_company">About the Company</string>
+
+    <!-- Filter Options -->
+    <string name="filter_full_time">Full-time</string>
+    <string name="filter_part_time">Part-time</string>
+    <string name="filter_contract">Contract</string>
+    <string name="filter_remote">Remote</string>
+    <string name="filter_on_site">On-site</string>
+    <string name="filter_hybrid">Hybrid</string>
+    <string name="filter_entry_level">Entry Level</string>
+    <string name="filter_mid_level">Mid Level</string>
+    <string name="filter_senior_level">Senior Level</string>
+
+    <!-- Profile -->
+    <string name="profile_my_applications">My Applications</string>
+    <string name="profile_saved_jobs">Saved Jobs</string>
+    <string name="profile_skills">Skills</string>
+    <string name="profile_experience">Experience</string>
+    <string name="profile_education">Education</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="profile_logout">Log Out</string>
+
+    <!-- Authentication -->
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_login">Log In</string>
+    <string name="auth_signup">Sign Up</string>
+    <string name="auth_forgot_password">Forgot Password?</string>
+    <string name="auth_create_account">Create Account</string>
+    <string name="auth_already_have_account">Already have an account? Log in</string>
+
+    <!-- Error Messages -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_login">Login failed. Please check your credentials.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+</resources>
